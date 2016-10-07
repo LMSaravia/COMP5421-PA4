@@ -1,0 +1,456 @@
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+
++--------------------+
+|A titled canvas     |
+|--------------------|
+|^^^^^^^^^^^^^^^^^^^^|
+|^^^^^^^^^^^^^^^^^^^^|
+|^^^^^^^^^^^^^^^^^^^^|
+|^^^^^^^^^^^^^^^^^^^^|
+|^^^^^^^^^^^^^^^^^^^^|
+|^^^^^^^^^^^^^^^^^^^^|
+|^^^^^^^^^^^^^^^^^^^^|
+|^^^^^^^^^^^^^^^^^^^^|
+|^^^^^^^^^^^^^^^^^^^^|
+|^^^^^^^^^^^^^^^^^^^^|
++--------------------+
+
+--------------------
+--------------------
+--------*-----------
+--------**----------
+--------***---------
+--------****--------
+--------*****-------
+--------******------
+--------------------
+--------------------
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|         *          |
+|         **         |
+|         ***        |
+|         ****       |
+|         *****      |
+|         ******     |
++--------------------+
+
++--------------------+
+|A titled canvas     |
+|--------------------|
+|^^^O^^^^^^^^^^^^^^^^|
+|^^^OO^^^^^^^^^^^^^^^|
+|^^^OOO^^^^^^^^^^^^^^|
+|^^^OOOO^^^^^^^^^^^^^|
+|^^^OOOOO^^^^^^^^^^^^|
+|^^^OOOOOO^^^^^^^^^^^|
+|^^^^^^^^^^^^^^^^^^^^|
+|^^^^^^^^^^^^^^^^^^^^|
+|^^^^^^^^^^^^^^^^^^^^|
+|^^^^^^^^^^^^^^^^^^^^|
++--------------------+
+
++--------------------+
+|A titled canvas     |
+|--------------------|
+|^^^O^^^^^^^^^^^^^^^^|
+|^^^OO^^^^^^^^^^^^^^^|
+|^^^OOO^^^^^^^^^^^^^^|
+|^^^OOOO^^^^^^^^^^^^^|
+|^^^OOOOO^^^^^^^^^^^^|
+|^^^OOOOOO^^^^^^^^^^^|
+|^^^^^^^^^^^^^^^^*^^^|
+|^^^^^^^^^^^^^^^^**^^|
+|^^^^^^^^^^^^^^^^***^|
+|^^^^^^^^^^^^^^^^****|
++--------------------+
+
++--------------------+
+|A titled canvas     |
+|--------------------|
+|                    |
+|     *              |
+|    ***             |
+|   *****            |
+|  ******* O         |
+| *********          |
+|  *******           |
+|   *****            |
+|    ***             |
+|     *              |
++--------------------+
+
++--------------------+
+|A titled canvas     |
+|--------------------|
+|                    |
+|    *               |
+|   ***              |
+|  *****             |
+| *******   O        |
+|  *****   OOO       |
+|   ***              |
+|    *               |
+|                    |
+|                    |
++--------------------+
+
++--------------------+
+|A titled canvas     |
+|--------------------|
+|                    |
+|   *                |
+|  ***               |
+| *****              |
+|  ***       O       |
+|   *       OOO      |
+|          OOOOO     |
+|                    |
+|                    |
+|                    |
++--------------------+
+
++--------------------+
+|A titled canvas     |
+|--------------------|
+|                    |
+|  *                 |
+| ***                |
+|  *                 |
+|             O      |
+|            OOO     |
+|           OOOOO    |
+|          OOOOOOO   |
+|                    |
+|                    |
++--------------------+
+
++--------------------------------------------+
+|A Geometric House: Front View               |
+|--------------------------------------------|
+|                                            |
+|                     /                      |
+|                    ///                     |
+|                   /////                    |
+|                  ///////                   |
+|                 /////////                  |
+|                ///////////                 |
+|    HH         /////////////                |
+|    HH        ///////////////               |
+|    HH       /////////////////              |
+|    HH      ///////////////////             |
+|    HH     //////HHHHHHHHH//////            |
+|    HH    ///////H       H///////           |
+|    HH   ////////H       H////////          |
+|    HH  /////////H       H/////////         |
+|    HH //////////HHHHHHHHH//////////        |
+|    HH///////////////////////////////       |
+|    H/////////////////////////////////      |
+|    ///////////////////////////////////     |
+|   /////////////////////////////////////    |
+|  ///////////////////////////////////////   |
+| /////////////////////////////////////////  |
+| [[[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]]]]  |
+| [[:::::::::::::::::::::::::::::::::::::]]  |
+| [[::::::::::::::::::::::::::*::::::::::]]  |
+| [[::::O::::::::::::::::::::***:::::::::]]  |
+| [[:::OOO::::::::::::::::::*****::::::::]]  |
+| [[::OOOOO::::::::::::::::*******:::::::]]  |
+| [[:OOOOOOO::::::::::::::*********::::::]]  |
+| [[::OOOOO::::::::::::::***********:::::]]  |
+| [[:::OOO::::::::::::::*************::::]]  |
+| [[::::O::::::::::::::***************:::]]  |
+| [[:::::::::::::::::::::::::::::::::::::]]  |
+| [[:::::::::::::::::::ddddddd=bbbbbbb:::]]  |
+| [[:::::::::::::::::::ddddddd=bbbbbbb:::]]  |
+| [[:::::::::::::::::::ddddddd=bbbbbbb:::]]  |
+| [[:::::::::::::::::::ddddddd=bbbbbbb:::]]  |
+| [[:::::::::::::::::::ddddddd=bbbbbbb:::]]  |
+| [[:::::::::::::::::::ddddddd=bbbbbbb:::]]  |
+| [[:::::::::::::::::::ddddddd=bbbbbbb:::]]  |
+| [[\::::::::::::::::::ddddddd=bbbbbbb:::]]  |
+| [[\\::::::::DDDD:::::ddddddd=bbbbbbb:::]]  |
+| [[\\\:::::::DDDD:::::ddddddd=bbbbbbb:::]]  |
+| [[\\\\:::::::::::::::::::::::::::::::::]]  |
+| [[[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]]]]  |
+| ////////////////////////////////////////   |
+| ////////////////////////////////////////   |
+| ////////////////////////////////////////   |
+| ////////////////////////////////////////   |
+|                                            |
++--------------------------------------------+
+
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class Rectangle
+Generic name:  Rectangle
+Description:   Chimeny on the roof
+id:            4
+Bound. box W:  2
+Bound. box H:  14
+Scr area:      28
+Geo area:      28.00
+Scr Perimeter: 28
+Geo Perimeter: 32.00
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class IsoTriangle
+Generic name:  IsoTriangle
+Description:   House roof
+id:            5
+Bound. box W:  41
+Bound. box H:  21
+Scr area:      441
+Geo area:      430.50
+Scr Perimeter: 80
+Geo Perimeter: 99.69
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class Rectangle
+Generic name:  Rectangle
+Description:   Frame around skylight
+id:            6
+Bound. box W:  9
+Bound. box H:  5
+Scr area:      45
+Geo area:      45.00
+Scr Perimeter: 24
+Geo Perimeter: 28.00
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class Rectangle
+Generic name:  Rectangle
+Description:   skylight
+id:            7
+Bound. box W:  7
+Bound. box H:  3
+Scr area:      21
+Geo area:      21.00
+Scr Perimeter: 16
+Geo Perimeter: 20.00
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class Rectangle
+Generic name:  Rectangle
+Description:   Front wall
+id:            8
+Bound. box W:  41
+Bound. box H:  22
+Scr area:      902
+Geo area:      902.00
+Scr Perimeter: 122
+Geo Perimeter: 126.00
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class Rectangle
+Generic name:  Rectangle
+Description:   top Left Brackets
+id:            9
+Bound. box W:  21
+Bound. box H:  1
+Scr area:      21
+Geo area:      21.00
+Scr Perimeter: 40
+Geo Perimeter: 44.00
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class Rectangle
+Generic name:  Rectangle
+Description:   Bottom Left Brackets
+id:            10
+Bound. box W:  21
+Bound. box H:  1
+Scr area:      21
+Geo area:      21.00
+Scr Perimeter: 40
+Geo Perimeter: 44.00
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class Rectangle
+Generic name:  Rectangle
+Description:   top Right Brackets
+id:            11
+Bound. box W:  20
+Bound. box H:  1
+Scr area:      20
+Geo area:      20.00
+Scr Perimeter: 38
+Geo Perimeter: 42.00
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class Rectangle
+Generic name:  Rectangle
+Description:   Bottom Right Brackets
+id:            12
+Bound. box W:  20
+Bound. box H:  1
+Scr area:      20
+Geo area:      20.00
+Scr Perimeter: 38
+Geo Perimeter: 42.00
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class Rectangle
+Generic name:  Rectangle
+Description:   Right Right Brackets
+id:            13
+Bound. box W:  2
+Bound. box H:  22
+Scr area:      44
+Geo area:      44.00
+Scr Perimeter: 44
+Geo Perimeter: 48.00
+Press any key to continue . . .
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class Rectangle
+Generic name:  Rectangle
+Description:   Left Left Brackets
+id:            14
+Bound. box W:  2
+Bound. box H:  22
+Scr area:      44
+Geo area:      44.00
+Scr Perimeter: 44
+Geo Perimeter: 48.00
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class Rectangle
+Generic name:  Rectangle
+Description:   Front Left Door
+id:            15
+Bound. box W:  7
+Bound. box H:  10
+Scr area:      70
+Geo area:      70.00
+Scr Perimeter: 30
+Geo Perimeter: 34.00
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class Rectangle
+Generic name:  Rectangle
+Description:   Front Right Door
+id:            16
+Bound. box W:  7
+Bound. box H:  10
+Scr area:      70
+Geo area:      70.00
+Scr Perimeter: 30
+Geo Perimeter: 34.00
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class Rectangle
+Generic name:  Rectangle
+Description:   Vertical center panel between front doors
+id:            17
+Bound. box W:  1
+Bound. box H:  10
+Scr area:      10
+Geo area:      10.00
+Scr Perimeter: 18
+Geo Perimeter: 22.00
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class IsoTriangle
+Generic name:  IsoTriangle
+Description:   Triagle Door Top
+id:            18
+Bound. box W:  15
+Bound. box H:  8
+Scr area:      64
+Geo area:      60.00
+Scr Perimeter: 28
+Geo Perimeter: 36.93
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class Rectangle
+Generic name:  Rectangle
+Description:   A rectangle  doggy door
+id:            19
+Bound. box W:  4
+Bound. box H:  2
+Scr area:      8
+Geo area:      8.00
+Scr Perimeter: 8
+Geo Perimeter: 12.00
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class Rhombus
+Generic name:  Rhombus
+Description:   Diamond shape window on front wall
+id:            20
+Bound. box W:  7
+Bound. box H:  7
+Scr area:      25
+Geo area:      24.50
+Scr Perimeter: 12
+Geo Perimeter: 19.80
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class Rectangle
+Generic name:  Rectangle
+Description:   Stair Slash
+id:            21
+Bound. box W:  40
+Bound. box H:  1
+Scr area:      40
+Geo area:      40.00
+Scr Perimeter: 78
+Geo Perimeter: 82.00
+Shape Information
+-----------------
+Static Type:   class Shape const *
+Dynamic Type:  class RightAngle
+Generic name:  RightAngle
+Description:   RightAngle
+id:            22
+Bound. box W:  4
+Bound. box H:  4
+Scr area:      10
+Geo area:      8.00
+Scr Perimeter: 9
+Geo Perimeter: 13.66
